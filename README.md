@@ -8,7 +8,7 @@ This repository contains a simple React form integration with Formspree for hand
 - Minimal and easy-to-understand code structure
 
 ## Usage
-1. Clone the repository: `git clone https://github.com/ashutoshrajgupta/react-form-formspree.git`
+1. Clone the repository: `git clone https://github.com/AshutoshRajGupta/react-forms-formspree.git`
 2. Install dependencies: `npm install`
 3. Customize the form and Formspree endpoint in the code.
 
